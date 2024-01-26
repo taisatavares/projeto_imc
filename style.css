@@ -11,6 +11,8 @@
     border-radius: 15px;
     width: 250px;
     height: 400px;
+    min-width: 300px;
+    max-width: 1000px;
     text-align: center;
     padding: 30px;
     font-weight: bold;
@@ -90,7 +92,6 @@
     height: 30px;
     width: 170px;
     border: none; 
-    margin-left: 17px;
     text-align: center;
     font-weight: bold;
     
